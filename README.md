@@ -1,4 +1,6 @@
-## Hi there I am Yuheng Qiu 👋
+Yuheng Qiu is a Ph.D. candidate at Carnegie Mellon University advised by Sebastian Scherer, as a part of the AirLab. I have an innate passion for advancing spatial AI to enhance robot autonomy.
+
+One specific area I focus on is creating generalized learning-based SLAM systems. Currently, engineers need to manually tune hyperparameters when applying these systems to new platforms, datasets, or sensors. I believe data-driven methods and uncertainty modeling are key to solving this problem. I hope that one day, SLAM will be fully automated—so much so that SLAM engineers like me will become unnecessary. (And I’ll happily “fire” myself when that day comes! 😂)
 
 <!--
 **haleqiu/haleqiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
